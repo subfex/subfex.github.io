@@ -9,4 +9,4 @@ background:
 permalink: /
 ---
 
-The goal of this project is to determine how persistent submesoscale fronts associated with small coastal upwelling embayments influence cross-shelf exchange, retention, and connectivity along EBUS. The research combines high-resolution field-based observations and realistic numerical experiments targeted in San Luis Obispo Bay in central California.
+The goal of this project is to determine how persistent submesoscale fronts associated with small coastal upwelling embayments influence cross-shelf exchange, retention, and connectivity along eastern boundary upwelling systems. The research combines high-resolution field-based observations and realistic numerical experiments targeted in San Luis Obispo Bay in central California.
