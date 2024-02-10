@@ -1,17 +1,12 @@
 ---
 layout: home
-title: Your research project
-description: Uses an easy to customize theme for its website
-background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+title: SLO Front
+description:  Submesoscale Frontal Dynamics and Exchange at an Upwelling Bay
+background:
+  img: /assets/theme/images/mesmerizing-shot-crystal-blue-ocean-waves-smaller.png
+  by:  wirestock on Freepik  # Creator of the image
+  href: https://www.freepik.com/free-photo/mesmerizing-shot-crystal-blue-ocean-waves_17530073.htm#query=ocean%20background&position=3&from_view=keyword&track=ais&uuid=c48e9e84-436d-447c-94ef-040b0d31615d # Link to the original source
 permalink: /
 ---
 
-[Petridish](https://github.com/peterdesmet/petridish) is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.1/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
-
-## Installation
-
-See the demo website for instructions:
-
-- [Installation]({{ '/docs/installation/' | relative_url }})
-- [Configuration]({{ '/docs/configuration/' | relative_url }})
-- [Markdown]({{ '/docs/markdown/' | relative_url }})
+The goal of this project is to determine how persistent submesoscale fronts associated with small coastal upwelling embayments influence cross-shelf exchange, retention, and connectivity along EBUS. The research combines high-resolution field-based observations and realistic numerical experiments targeted in San Luis Obispo Bay in central California.

@@ -1,25 +1,23 @@
 ---
 title: About
-description: Here you can describe your project, lab or yourself. Or remove this page altogether if you don't want to do that.
+description:  Submesoscale Frontal Dynamics and Exchange at an Upwelling Bay
 background:
-  img: https://images.unsplash.com/photo-1475906089153-644d9452ce87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80
-  by: CHUTTERSNAP
-  href: https://unsplash.com/photos/UmncJq4KPcA
+  img: /assets/theme/images/mesmerizing-shot-crystal-blue-ocean-waves-smaller.png
+  by:  wirestock on Freepik  # Creator of the image
+  href: https://www.freepik.com/free-photo/mesmerizing-shot-crystal-blue-ocean-waves_17530073.htm#query=ocean%20background&position=3&from_view=keyword&trac
 permalink: /about/
 ---
 
-{:.alert .alert-warning}
-The source file for this page is [`pages/about.md`](https://raw.githubusercontent.com/peterdesmet/petridish/main/pages/about.md).
+## Background
+Small coastal embayments are ubiquitous features of eastern boundary upwelling systems (EBUS) and play a disproportionately large role in local ecosystem dynamics. In these upwelling bays, persistent and sharp nearshore thermal fronts form downstream of coastal topographic features. Due to their small scales, these fronts are dominated by submesoscale dynamics and likely play a key role modulating cross-shelf exchange. Small upwelling bays offer a unique opportunity to study the dynamics of submesoscale fronts in the coastal ocean because their formation is predictably linked to topographic features. 
 
-This is a default page. See [configuration]({{ '/docs/configuration/' | relative_url }}) to learn more about **pages**.
+## Study site
+This project is targeted in San Luis Obispo Bay in central California, a small embayment whose length scale is on the order of the local Rossby deformation radius, where previous research from our team has revealed the presence of a persistent and narrow temperature front, strong convergence of surface currents, and impacts on local hypoxia and harmful algal bloom (HAB) development.
 
-To remove this page, you need to:
+## Approach
+This study integrates high-resolution field observations and numerical modeling to explore the links between submesoscale fronts, turbulent mixing, and bay-ocean exchange. 
 
-- Remove `pages/about.md`
-- Update `_data/navigation.yml` to remove the link to this page from the top navigation.
-
-## Some gibberish
-
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
-
-He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
+## Scientific Goals 
+* Test scalings for cross-front transport and examining the potentially important role of nonlinear dynamics. 
+* Examine the role of the diurnal seabreeze in the interaction between submesoscale fronts and turbulence in the nearshore. 
+* Investigate how geostrophic adjustment during frontal decay impacts bottom boundary layer dynamics, retention of bottom water, and connectivity of surface water, processes which are relevant to hypoxia and larval dispersal. 
