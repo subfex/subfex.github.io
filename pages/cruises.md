@@ -19,5 +19,11 @@ Unloading: 8 July (San Diego)
 
 #### Mooring recovery
 
-Vessel: R/V T.L. Richards (Cal Poly)  
+Vessel: R/V TL Richards (Cal Poly)  
 Dates: TBD  
+
+## Team planning resources
+
+* [Equipment spreadsheet - Summer 2024 (Restricted access)](https://docs.google.com/spreadsheets/d/1KZ_uVu4Zeo6OlTWv-ePXMyKW4LfqrqMYGfEZi7bEd0g/edit?usp=sharing)
+
+* [Equipment spreadsheet - Master (Restricted access)](https://docs.google.com/spreadsheets/d/1bXP-cyFelC7ALViVjWwLsCGMYALvB3eYB4cDQtZVSOI/edit?usp=sharing)
