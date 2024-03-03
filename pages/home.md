@@ -1,7 +1,7 @@
 ---
 layout: home
-title: SLO Front
-description:  Submesoscale Frontal Dynamics and Exchange at an Upwelling Bay
+title: SUBFEx
+description:  Submesoscale Upwelling Bay Frontal Exchange
 background:
   img: /assets/theme/images/mesmerizing-shot-crystal-blue-ocean-waves-smaller.png
   by:  wirestock on Freepik  # Creator of the image
@@ -10,7 +10,7 @@ permalink: /
 ---
 
 
-The goal of the SLO Front project is to determine how persistent submesoscale fronts associated with small coastal upwelling embayments influence cross-shelf exchange, retention, and connectivity along eastern boundary upwelling systems. The research combines high-resolution field-based observations and realistic numerical experiments targeted in San Luis Obispo (SLO) Bay in central California.
+The goal of the Submesoscale Upwelling Bay Frontal Exchange (SUBFEx, prounced "sub effects") project is to determine how persistent submesoscale fronts associated with small coastal upwelling embayments influence cross-shelf exchange, retention, and connectivity along eastern boundary upwelling systems. The research combines high-resolution field-based observations and realistic numerical experiments targeted in San Luis Obispo (SLO) Bay in central California.
 
 ![SLO Bay SST Map](pages/images/SLO-Bay-SST-labeled.png)
 
