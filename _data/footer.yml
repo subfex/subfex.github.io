@@ -19,7 +19,8 @@ columns:
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is funded by the National Science Foundation (OCE)
+      This project is funded by the National Science Foundation (OCE) 
+      <img src="https://www.nsf.gov/news/mmg/media/images/nsf%20logo_ba604992-ed6d-46a7-8f5b-151b1c3e17e3.jpg" alt="NSF logo" width="75"/>
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown

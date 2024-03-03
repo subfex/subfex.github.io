@@ -21,4 +21,4 @@ The goal of the SLO Front project is to determine how persistent submesoscale fr
 </figure>
 </div> -->
 
-At the mouth of SLO Bay, a narrow thermal front is often observed where warm water within the bay meets cold upwelled water farther offshore. By observing and modeling the structure this front over numerous upwelling and relaxation cycles, our team aims to reveal links between small-sclae turbulence and submesoscale frontal dynamics. Image: Satellite SST during June 2022 from the [CalOOS Data Portal](https://data.caloos.org)
+At the mouth of SLO Bay, a narrow thermal front is often observed where warm water within the bay meets cold upwelled water farther offshore. By observing and modeling the structure this front over numerous upwelling and relaxation cycles, our team aims to reveal links between small-scale turbulence and submesoscale frontal dynamics. Image: Satellite SST during June 2022 from the [CalOOS Data Portal](https://data.caloos.org)

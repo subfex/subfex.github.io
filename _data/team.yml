@@ -2,25 +2,58 @@
 
 - name: Tom Connolly
   role: Principal Investigator # Will appear next to name
-  #image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+  #image: pages/images/mlml-logo.png # Can be external link
   description: > # Can be Markdown
-    Physical Oceanographer and Associate Professor at Moss Landing Marine Labs, San Jose State University
+   [Physical Oceanography Lab](https://mlml.sjsu.edu/physoce/), Moss Landing Marine Labs, San Jose State University
   orcid: 0000-0002-2159-5918
   # researchgate: researchgate_username
   googlescholar: KodXPsYAAAAJ
   # twitter: twitter_username
   # mastodon: https://mastodon.social/@mastodon_username
-  github: tompc35
+  # github: tompc35
   email: thomas.p.connolly@sjsu.edu
 
 - name: Chris Edwards
+  #image: pages/images/ucsc-slug-logo.png #
   role: Principal Investigator
-  description: >
+  description: > 
+   [Ocean Modeling and Data Assimilation](https://oceanmodeling.ucsc.edu), University of California Santa Cruz
+  email: cedwards@ucsc.edu
+  orcid: 0000-0002-2100-5674
+  googlescholar: 9u5pDgoAAAAJ
 
 - name: Piero Mazzini
+  #image: pages/images/vims-logo.svg #
   role: Principal Investigator
   description: >
+   [Coastal Oceanography Lab](https://mazzinilab.github.io/), Virginia Institute of Marine Science
+  email: pmazzini@vims.edu
+  orcid: 0000-0001-5048-5550
+  googlescholar: YLs84F0AAAAJ
 
 - name: Ryan Walter
+  #image: pages/images/cal-poly-logo.png #
   role: Principal Investigator
   description: >
+   [Center for Coastal Marine Sciences](https://marine.calpoly.edu/faculty/ryan-walter), Cal Poly San Luis Obispo
+  orcid: 0000-0003-1907-001X
+  email: rkwalter@calpoly.edu
+  googlescholar: CYuQmeEAAAAJ
+
+- name: Clark Pennelly
+  role: Postdoctoral Investigator
+  description: >
+   University of California Santa Cruz
+  orcid: 0000-0002-2874-4234
+  googlescholar: VSo7xsEAAAAJ
+
+- name: Nathan Shunk
+  role: Graduate Student
+  description: >
+   Virginia Institute of Marine Science
+
+- name: Charlie Underhill
+  role: Graduate Student
+  description: >
+   University of California Santa Cruz
+
