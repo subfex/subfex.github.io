@@ -10,7 +10,7 @@ permalink: /
 ---
 
 
-The goal of the Submesoscale Upwelling Bay Frontal Exchange (SUBFEx, prounced "sub effects") project is to determine how persistent submesoscale fronts associated with small coastal upwelling embayments influence cross-shelf exchange, retention, and connectivity along eastern boundary upwelling systems. The research combines high-resolution field-based observations and realistic numerical experiments targeted in San Luis Obispo (SLO) Bay in central California.
+The goal of the Submesoscale Upwelling Bay Frontal Exchange (SUBFEx, pronounced "sub effects") project is to determine how persistent submesoscale fronts associated with small coastal upwelling embayments influence cross-shelf exchange, retention, and connectivity along eastern boundary upwelling systems. The research combines high-resolution field-based observations and realistic numerical experiments targeted in San Luis Obispo (SLO) Bay in central California.
 
 ![SLO Bay SST Map](pages/images/SLO-Bay-SST-labeled.png)
 
