@@ -1,6 +1,6 @@
 ---
 title: Cruises
-description:  Submesoscale Frontal Dynamics and Exchange at an Upwelling Bay
+description: Submesoscale Upwelling Bay Frontal Exchange
 background:
   img: /assets/theme/images/mesmerizing-shot-crystal-blue-ocean-waves-smaller.png
   by:  wirestock on Freepik  # Creator of the image

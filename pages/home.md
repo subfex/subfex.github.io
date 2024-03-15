@@ -1,7 +1,7 @@
 ---
 layout: home
 title: SUBFEx
-description:  Submesoscale Upwelling Bay Frontal Exchange
+description: Submesoscale Upwelling Bay Frontal Exchange
 background:
   img: /assets/theme/images/mesmerizing-shot-crystal-blue-ocean-waves-smaller.png
   by:  wirestock on Freepik  # Creator of the image
