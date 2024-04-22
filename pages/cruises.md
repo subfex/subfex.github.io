@@ -12,6 +12,7 @@ permalink: /cruises/
 
 #### Mooring deployment and survey cruise
 
+SP2411
 Vessel: [R/V Robert Gordon Sproul](https://scripps.ucsd.edu/ships/sproul)  
 Dates: 26 June - 7 July  
 Loading: 25 June (San Diego)  
@@ -20,9 +21,11 @@ Unloading: 8 July (San Diego)
 #### Mooring recovery
 
 Vessel: R/V TL Richards (Cal Poly)  
-Dates: TBD  
+Dates: Tentative window: Aug 29-30 or Sep 4-6
 
 ## Team planning resources
+
+* [UNOLS Marine Facilities Planning (MFP)](https://mfp.us/)
 
 * [Equipment spreadsheet - Summer 2024 (Restricted access)](https://docs.google.com/spreadsheets/d/1KZ_uVu4Zeo6OlTWv-ePXMyKW4LfqrqMYGfEZi7bEd0g/edit?usp=sharing)
 
