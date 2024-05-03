@@ -27,6 +27,8 @@ Dates: Tentative window: Aug 29-30 or Sep 4-6
 
 * [UNOLS Marine Facilities Planning (MFP)](https://mfp.us/)
 
-* [Equipment spreadsheet - Summer 2024 (Restricted access)](https://docs.google.com/spreadsheets/d/1KZ_uVu4Zeo6OlTWv-ePXMyKW4LfqrqMYGfEZi7bEd0g/edit?usp=sharing)
+* [Port San Luis tide predictions](https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9412110&units=standard&bdate=20240626&edate=20240708&timezone=LST/LDT&clock=12hour&datum=MLLW&interval=hilo&action=dailychart)
 
-* [Equipment spreadsheet - Master (Restricted access)](https://docs.google.com/spreadsheets/d/1bXP-cyFelC7ALViVjWwLsCGMYALvB3eYB4cDQtZVSOI/edit?usp=sharing)
+* [Marine weather forecast](https://marine.weather.gov/MapClick.php?zoneid=PZZ645)
+
+* [Cruise planning - Google Drive (restricted access)](https://drive.google.com/drive/folders/1qpKtVWYhwcbYkcDVA9oJ97laUhW7snCm?usp=sharing)
