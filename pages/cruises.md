@@ -27,8 +27,14 @@ Dates: Tentative window: Aug 29-30 or Sep 4-6
 
 * [UNOLS Marine Facilities Planning (MFP)](https://mfp.us/)
 
+* [UNOLS cruise planning information](https://www.unols.org/vessel-schedules/cruise-planning-information)
+
+* [Cruise planning - Google Drive (restricted access)](https://drive.google.com/drive/folders/1qpKtVWYhwcbYkcDVA9oJ97laUhW7snCm?usp=sharing)
+
+### Weather and tides
+
+* [NDBC 46011 - Santa Maria buoy](https://www.ndbc.noaa.gov/station_page.php?station=46011)
+
 * [Port San Luis tide predictions](https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9412110&units=standard&bdate=20240626&edate=20240708&timezone=LST/LDT&clock=12hour&datum=MLLW&interval=hilo&action=dailychart)
 
 * [Marine weather forecast](https://marine.weather.gov/MapClick.php?zoneid=PZZ645)
-
-* [Cruise planning - Google Drive (restricted access)](https://drive.google.com/drive/folders/1qpKtVWYhwcbYkcDVA9oJ97laUhW7snCm?usp=sharing)
