@@ -1,4 +1,4 @@
-name: run main.py
+name: run python scripts
 
 on:
   push:
@@ -6,6 +6,9 @@ on:
       - main
   schedule:
     - cron: '30 06 * * *' # At 06:30 UTC everyday
+
+permissions:
+  contents: write
 
 jobs:
   build:
