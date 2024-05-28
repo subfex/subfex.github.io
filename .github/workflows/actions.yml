@@ -26,9 +26,8 @@ jobs:
           
       - name: execute py scripts 
         run: |
-          cd scripts/auto_update_cui
-          python retrieve_data.py
-          python update_cui_plot.py
+          python scripts/retrieve_data.py
+          python scripts/update_cui_plot.py
           
       - name: commit files
         run: |
