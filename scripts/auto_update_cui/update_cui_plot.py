@@ -65,4 +65,4 @@ plt.ylabel('CUI [m$^2$/s/100m]')
 plt.title('cumulative upwelling index - 36N\n'+
             str(allyears[0])+'-'+str(allyears[-1])+', darker = more recent')
 plt.tight_layout()
-plt.savefig('figures/cui_36N_updated.png', dpi=1000)
+plt.savefig('scripts/auto_update_cui/figures/cui_36N_updated.png', dpi=1000)
