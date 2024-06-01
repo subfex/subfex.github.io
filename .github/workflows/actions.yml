@@ -31,6 +31,7 @@ jobs:
         run: |
           python scripts/auto_update_cui/retrieve_data.py
           python scripts/auto_update_cui/update_cui_plot.py
+          cp scripts/auto_update_cui/figures/cui_36N_updated.png pages/images
           
       - name: commit files
         run: |
