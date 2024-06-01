@@ -4,11 +4,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # %% historical csv file
-csv_file = 'data/UpwellingIndex_36N_historical_1996-present.csv'
+csv_file = 'scripts/auto_update_cui/data/UpwellingIndex_36N_historical_1996-present.csv'
 dfh = pd.read_csv(csv_file, skiprows=[1], parse_dates=[0])
 
 # %% recent csv file
-recent_csv_file = 'data/upwell_122W_36N.txt'
+recent_csv_file = 'scripts/auto_update_cui/data/upwell_122W_36N.txt'
 with open(recent_csv_file) as f:
     flines = f.readlines()
 headeri = [i for i, line in enumerate(flines) if 'VARIABLE : UPWELLING_INDEX' in line]
