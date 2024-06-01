@@ -3,15 +3,31 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+prefix = 'scripts/auto_update_cui/'
+
 # %% historical csv file
-csv_file = 'scripts/auto_update_cui/data/UpwellingIndex_36N_historical_1996-present.csv'
+csv_file = prefix+'data/UpwellingIndex_36N_historical_1996-present.csv'
+#csv_file = 'scripts/auto_update_cui/data/UpwellingIndex_36N_historical_1996-present.csv'
 dfh = pd.read_csv(csv_file, skiprows=[1], parse_dates=[0])
 
 # %% recent csv file
-recent_csv_file = 'scripts/auto_update_cui/data/upwell_122W_36N.txt'
+
+recent_csv_file = prefix+'data/upwell_122W_36N.txt'
+#recent_csv_file = 'scripts/auto_update_cui/data/upwell_122W_36N.txt'
 with open(recent_csv_file) as f:
     flines = f.readlines()
 headeri = [i for i, line in enumerate(flines) if 'VARIABLE : UPWELLING_INDEX' in line]
+
+nskip1 = headeri[0] + 9
+nlines = len(flines)
+
+dfr1 = pd.read_csv(recent_csv_file, skiprows=nskip1, delim_whitespace=True, 
+                  skipinitialspace=True, names=['date', 'time', '/', 'count', 'upwelling_index'],
+                  parse_dates=[[0,1]], date_parser=lambda x: pd.to_datetime(x, utc=True),
+                  skipfooter = nlines-headeri[-1])
+
+dfr1 = dfr1.rename(columns={'date_time':'time'})
+dfr1 = dfr1.drop(columns = ['/', 'count'])
 
 nskip = headeri[-1] + 8
 dfr = pd.read_csv(recent_csv_file, skiprows=nskip, delim_whitespace=True, 
@@ -20,6 +36,10 @@ dfr = pd.read_csv(recent_csv_file, skiprows=nskip, delim_whitespace=True,
 
 dfr = dfr.rename(columns={'date_time':'time'})
 dfr = dfr.drop(columns = ['/', 'count'])
+
+tdiff = (dfr1['time'].values[0] - dfh['time'].values[-1])/np.timedelta64(1, 'D')
+if tdiff > 0:
+    dfr = pd.concat([dfr1, dfr], ignore_index=True)
 
 # %% Concatenate historical and recent
 
@@ -65,4 +85,4 @@ plt.ylabel('CUI [m$^2$/s/100m]')
 plt.title('cumulative upwelling index - 36N\n'+
             str(allyears[0])+'-'+str(allyears[-1])+', darker = more recent')
 plt.tight_layout()
-plt.savefig('scripts/auto_update_cui/figures/cui_36N_updated.png', dpi=1000)
+plt.savefig(prefix+'figures/cui_36N_updated.png', dpi=1000)
