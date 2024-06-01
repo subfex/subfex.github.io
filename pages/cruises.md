@@ -40,3 +40,5 @@ Dates: Tentative window: Aug 29-30 or Sep 4-6
 * [Port San Luis tide predictions](https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9412110&units=standard&bdate=20240626&edate=20240708&timezone=LST/LDT&clock=12hour&datum=MLLW&interval=hilo&action=dailychart)
 
 * [Marine weather forecast](https://marine.weather.gov/MapClick.php?zoneid=PZZ645)
+
+* [Cumulative upwelling index - 36N (updated)](/pages/images/SLO-Bay-SST-labeled.png)
