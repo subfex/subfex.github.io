@@ -41,4 +41,6 @@ Dates: Tentative window: Aug 29-30 or Sep 4-6
 
 * [Marine weather forecast](https://marine.weather.gov/MapClick.php?zoneid=PZZ645)
 
-* [Cumulative upwelling index - 36N (updated)](/pages/images/cui_36N_updated.png)
+* [Cal Poly Pier - CalOOS data portal](https://data.caloos.org/?&sensor_version=v2#metadata/103545/station/data)
+
+* [Cumulative upwelling index - 36N](/pages/images/cui_36N_updated.png)
