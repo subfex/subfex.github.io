@@ -41,4 +41,4 @@ Dates: Tentative window: Aug 29-30 or Sep 4-6
 
 * [Marine weather forecast](https://marine.weather.gov/MapClick.php?zoneid=PZZ645)
 
-* [Cumulative upwelling index - 36N (updated)](/pages/images/CUI_36N_updated.png)
+* [Cumulative upwelling index - 36N (updated)](/pages/images/cui_36N_updated.png)
