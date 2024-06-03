@@ -24,7 +24,7 @@ nlines = len(flines)
 dfr1 = pd.read_csv(recent_csv_file, skiprows=nskip1, delim_whitespace=True, 
                   skipinitialspace=True, names=['date', 'time', '/', 'count', 'upwelling_index'],
                   parse_dates=[[0,1]], date_parser=lambda x: pd.to_datetime(x, utc=True),
-                  skipfooter = nlines-headeri[-1])
+                  skipfooter = nlines-headeri[-1], engine='python')
 
 dfr1 = dfr1.rename(columns={'date_time':'time'})
 dfr1 = dfr1.drop(columns = ['/', 'count'])
@@ -80,9 +80,11 @@ for i, year in enumerate(allyears):
     plt.xlim([0,366])
 
 plt.plot(dfp['yearday'], dfp['cui'], '-', color='r', label=str(year))
+plt.legend()
 plt.xlabel('yearday')
 plt.ylabel('CUI [m$^2$/s/100m]')
-plt.title('cumulative upwelling index - 36N\n'+
+nowstr = pd.Timestamp.now().strftime('%B %d, %Y')
+plt.title('cumulative upwelling index - 36N (updated ' + nowstr + ')\n'+
             str(allyears[0])+'-'+str(allyears[-1])+', darker = more recent')
 plt.tight_layout()
 plt.savefig(prefix+'figures/cui_36N_updated.png', dpi=1000)
