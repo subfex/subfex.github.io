@@ -24,7 +24,7 @@ nlines = len(flines)
 dfr1 = pd.read_csv(recent_csv_file, skiprows=nskip1, delim_whitespace=True, 
                   skipinitialspace=True, names=['date', 'time', '/', 'count', 'upwelling_index'],
                   parse_dates=[[0,1]], date_parser=lambda x: pd.to_datetime(x, utc=True),
-                  skipfooter = nlines-headeri[-1], engine='python')
+                  skipfooter = nlines-headeri[-1])
 
 dfr1 = dfr1.rename(columns={'date_time':'time'})
 dfr1 = dfr1.drop(columns = ['/', 'count'])
