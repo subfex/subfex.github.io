@@ -1,5 +1,5 @@
-SLO Front Project Website
-https://slo-front.github.io/
+SUB-F-Ex Front Project Website
+https://subfex.github.io/
 
 Built with Jekyll and Github Pages
 
