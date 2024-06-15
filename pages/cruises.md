@@ -43,7 +43,7 @@ Dates: Tentative window: Aug 29-30 or Sep 4-6
 
 * [Cal Poly Pier - CalOOS data portal](https://data.caloos.org/?&sensor_version=v2#metadata/103545/station/data)
 
-* [HF radar surface currents](https://cordc.ucsd.edu/projects/hfrnet/?zm=11&ll=35.06055,-120.888568&prod=a_2km&time=1718319600&rng=0,50&cb=4&us=100&o_sp=0&o_o=0&o_sl=0)
+* [HF radar surface currents](https://cordc.ucsd.edu/projects/hfrnet/?zm=11&ll=35.06055,-120.888568&prod=a_2km&rng=0,50&cb=4&us=100&o_sp=0&o_o=0&o_sl=0)
 
 * [Wind map - Windy](https://www.windy.com/?35.027,-120.726,10)
 
