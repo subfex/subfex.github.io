@@ -16,7 +16,7 @@ SP2410/11
 Vessel: [R/V Robert Gordon Sproul](https://scripps.ucsd.edu/ships/sproul)  
 Dates: 26 June - 7 July  
 Loading: 25 June (San Diego)  
-Morro Bay port call: 29 June (1800) - 30 June (0700)
+Morro Bay port call: 29 June (1800) - 30 June (0700)  
 Unloading: 8 July (San Diego)  
 
 #### Mooring recovery
@@ -32,7 +32,7 @@ Dates: Tentative window: Aug 29-30 or Sep 4-6
 
 * [Cruise planning - Google Drive (restricted access)](https://drive.google.com/drive/folders/1qpKtVWYhwcbYkcDVA9oJ97laUhW7snCm?usp=sharing)
 
-* [Field Code of Conduct](code-of-conduct)
+* [Field Code of Conduct](https://subfex.github.io/code-of-conduct/)
 
 ### Regional forecasts and real-time data
 
