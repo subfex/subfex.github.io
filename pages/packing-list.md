@@ -8,10 +8,10 @@ background:
 permalink: /packing-list/
 ---
 
-# Personal packing list for research cruise
+Suggestions for what to pack on a research cruise  
 Last updated: Jun 18, 2024 
 
-## Required (adapted from UNOLS safety document):
+### Required (adapted from UNOLS safety document):
 - Sunblock and clothing that provide protection against the sun
 - Warmer clothing for cooler nighttime temperatures and strong wind. Wool and polypropylene materials provide warmth and repel moisture. These materials also retain their insulating properties when wet. 
 - Dressing in layers is a good plan to adapt to different thermal environments. Even on hot days, some spaces can be cold (cold rooms, electronics labs) or warm (spaces near engine rooms, servers).
@@ -26,12 +26,12 @@ Last updated: Jun 18, 2024
 - Medication – prescriptions, seasickness medication (Dramamine), OTC medications you might use.
 - Work gloves for handling wet lines - synthetic material for fast drying (inexpensive ones can be found at Home Depot or Ace)
 
-## NOT required to bring:
+### NOT required to bring:
 - Bedding, pillows, warm blankets
 - Food, snacks
 - Towels
 
-## Optional, can be nice:
+### Optional, can be nice:
 - Book, headlamp to read in the dark.
 - Music, audiobooks (save to your device before the cruise, no streaming due to limited bandwidth)
 - Headphones
