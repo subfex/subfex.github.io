@@ -26,13 +26,15 @@ Dates: Tentative window: Aug 29-30 or Sep 4-6
 
 ## Team planning resources
 
-* [UNOLS Marine Facilities Planning (MFP)](https://mfp.us/)
+* [Field Code of Conduct](../code-of-conduct/)
 
-* [UNOLS cruise planning information](https://www.unols.org/vessel-schedules/cruise-planning-information)
+* [Personal Packing List](../packing-list/)
 
 * [Cruise planning - Google Drive (restricted access)](https://drive.google.com/drive/folders/1qpKtVWYhwcbYkcDVA9oJ97laUhW7snCm?usp=sharing)
 
-* [Field Code of Conduct](https://subfex.github.io/code-of-conduct/)
+* [UNOLS Marine Facilities Planning (MFP)](https://mfp.us/)
+
+* [UNOLS cruise planning information](https://www.unols.org/vessel-schedules/cruise-planning-information)
 
 ### Regional forecasts and real-time data
 
