@@ -46,6 +46,8 @@ Dates: Tentative window: Aug 29-30 or Sep 4-6
 
 * [Marine weather forecast](https://marine.weather.gov/MapClick.php?zoneid=PZZ645)
 
+* [Stormsurf Central CA forecast](http://www.stormsurf.com/locals/ccal.shtml)
+
 * [Cal Poly Pier - CalOOS data portal](https://data.caloos.org/?&sensor_version=v2#metadata/103545/station/data)
 
 * [Regional temperature observations - CalOOS data portal](https://data.caloos.org/?ls=kr6s5Iwz#data/1)
