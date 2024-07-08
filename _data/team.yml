@@ -51,9 +51,20 @@
   role: Graduate Student
   description: >
    Virginia Institute of Marine Science
+  orcid: 0009-0004-0222-3846
+
+- name: Ricardo Utzig Nardi
+  role: Graduate Student
+  description: >
+   Virginia Institute of Marine Science
 
 - name: Charlie Underhill
   role: Graduate Student
   description: >
    University of California Santa Cruz
+
+- name: Josephine Trillo
+  role: Graduate Student
+  description: >
+   Moss Landing Marine Labs, San Jose State University
 
