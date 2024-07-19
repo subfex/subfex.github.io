@@ -12,8 +12,8 @@ permalink: /cruises/
 
 #### Mooring deployment and survey cruise
 
-SP2410/11 
-Vessel: [R/V Robert Gordon Sproul](https://scripps.ucsd.edu/ships/sproul)  
+SP2410/11  
+Vessel: [R/V Robert Gordon Sproul](https://scripps.ucsd.edu/ships/sproul)   
 Dates: 26 June - 7 July  
 Loading: 25 June (San Diego)  
 Morro Bay port call: 29 June (1800) - 30 June (0700)  
