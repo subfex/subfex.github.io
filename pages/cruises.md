@@ -8,6 +8,24 @@ background:
 permalink: /cruises/
 ---
 
+## Summer 2025
+
+#### Cruise A: Mooring deployment and surveys
+
+SP2522
+Vessel: [R/V Robert Gordon Sproul](https://scripps.ucsd.edu/ships/sproul)   
+Dates: 18 June - 30 June 
+Loading: 16-17 June (San Diego)    
+Unloading: 1 July (San Diego)  
+
+#### Cruise B: Mooring recovery and surveys
+
+*Dates are tentative*
+Vessel: [R/V Robert Gordon Sproul](https://scripps.ucsd.edu/ships/sproul)   
+Dates: 5-18 August
+Loading: 4 August (San Diego)    
+Unloading: 19 August (San Diego) 
+
 ## Summer 2024
 
 #### Mooring deployment and survey cruise
@@ -23,7 +41,7 @@ Unloading: 8 July (San Diego)
 #### Mooring recovery
 
 Vessel: R/V TL Richards (Cal Poly)  
-Dates: Tentative window: Aug 29-30 or Sep 4-6
+Date: Aug 29
 
 ## Team planning resources
 
