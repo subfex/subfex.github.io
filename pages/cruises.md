@@ -12,19 +12,19 @@ permalink: /cruises/
 
 #### Cruise A: Mooring deployment and surveys
 
-SP2522
+SP2522   
 Vessel: [R/V Robert Gordon Sproul](https://scripps.ucsd.edu/ships/sproul)   
-Dates: 18 June - 30 June 
-Loading: 16-17 June (San Diego)    
-Unloading: 1 July (San Diego)  
+Dates: 18 June - 30 June   
+Loading: 16-17 June (San Diego)      
+Unloading: 1 July (San Diego)   
 
 #### Cruise B: Mooring recovery and surveys
 
-*Dates are tentative*
+*Dates are tentative*   
 Vessel: [R/V Robert Gordon Sproul](https://scripps.ucsd.edu/ships/sproul)   
-Dates: 5-18 August
+Dates: 5-18 August   
 Loading: 4 August (San Diego)    
-Unloading: 19 August (San Diego) 
+Unloading: 19 August (San Diego)    
 
 ## Summer 2024
 
