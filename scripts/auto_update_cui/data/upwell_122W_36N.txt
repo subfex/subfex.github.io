@@ -130,7 +130,7 @@
              VARIABLE : UPWELLING_INDEX
              DATA SET : Transports from FNMOC 360x181 6-hr pressure
              FILENAME : this_month_transport.nc
-             SUBSET   : 26 points (TIME)
+             SUBSET   : 30 points (TIME)
              LONGITUDE: 122W
              LATITUDE : 36N
                           122W   
@@ -161,3 +161,7 @@
  06-JUL-2025 18:00 / 24:  140.7
  07-JUL-2025 00:00 / 25:  178.8
  07-JUL-2025 06:00 / 26:  122.3
+ 07-JUL-2025 12:00 / 27:   57.8
+ 07-JUL-2025 18:00 / 28:   39.3
+ 08-JUL-2025 00:00 / 29:   78.6
+ 08-JUL-2025 06:00 / 30:   37.1
