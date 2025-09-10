@@ -58,13 +58,35 @@
   description: >
    Virginia Institute of Marine Science
 
-- name: Charlie Underhill
+- name: Julia Abrao Teixeira
   role: Graduate Student
   description: >
-   University of California Santa Cruz
+   Virginia Institute of Marine Science
 
 - name: Josephine Trillo
   role: Graduate Student
   description: >
    Moss Landing Marine Labs, San Jose State University
+
+- name: Stephen Huie
+  role: Graduate Student
+  description: >
+   Moss Landing Marine Labs, San Jose State University
+
+- name: Charlie Underhill
+  role: Graduate Student
+  description: >
+   University of California Santa Cruz
+
+- name: Gavin Plume
+  role: Undergraduate Student
+  description: >
+   Cal Poly San Luis Obispo
+
+- name: April Thibodeau
+  role: Undergraduate Student
+  description: >
+   Cal Poly San Luis Obispo
+
+
 
