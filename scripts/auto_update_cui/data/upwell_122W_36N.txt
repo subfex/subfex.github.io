@@ -133,14 +133,18 @@
              VARIABLE : UPWELLING_INDEX
              DATA SET : Transports from FNMOC 360x181 6-hr pressure
              FILENAME : this_month_transport.nc
-             SUBSET   : 6 points (TIME)
+             SUBSET   : 10 points (TIME)
              LONGITUDE: 122W
              LATITUDE : 36N
-                         122W   
-                         239
- 01-AUG-2026 00:00 / 1:  206.1
- 01-AUG-2026 06:00 / 2:  238.2
- 01-AUG-2026 12:00 / 3:  153.2
- 01-AUG-2026 18:00 / 4:  149.9
- 02-AUG-2026 00:00 / 5:  211.3
- 02-AUG-2026 06:00 / 6:  154.7
+                          122W   
+                          239
+ 01-AUG-2026 00:00 /  1:  206.1
+ 01-AUG-2026 06:00 /  2:  238.2
+ 01-AUG-2026 12:00 /  3:  153.2
+ 01-AUG-2026 18:00 /  4:  149.9
+ 02-AUG-2026 00:00 /  5:  211.3
+ 02-AUG-2026 06:00 /  6:  154.7
+ 02-AUG-2026 12:00 /  7:  154.7
+ 02-AUG-2026 18:00 /  8:  140.7
+ 03-AUG-2026 00:00 /  9:  279.4
+ 03-AUG-2026 06:00 / 10:  173.3
